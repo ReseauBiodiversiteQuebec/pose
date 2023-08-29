@@ -1,5 +1,5 @@
 # pose
-Instructions for the Pose server
+Instructions for the Pose server. Put this in the Rprofile.site of the Pose R.
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
